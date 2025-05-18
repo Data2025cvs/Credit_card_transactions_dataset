@@ -201,7 +201,7 @@ FROM CTE2
 INNER JOIN CTE3 ON CTE2.city =CTE3.city
 ORDER BY days_to_500
 ```
-###Technology Stack  
+### Technology Stack  
 Database: **SQL Sever**    
 SQL Queries: DML, DQL, Aggregations, Subqueries, Joins, Common table Expressions, Window Functions etc.   
 Tools: SQL Server Management Studio 20  
